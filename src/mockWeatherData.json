@@ -1,0 +1,122 @@
+[
+  {
+    "city": "Hanoi",
+    "coord": { "lat": 21.0285, "lon": 105.8542 },
+    "forecast": [
+      {
+        "dt": "2025-05-12 09:00:00",
+        "temp": 303.15,
+        "weather": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d",
+        "humidity": 70,
+        "wind": 4.1
+      },
+      {
+        "dt": "2025-05-12 12:00:00",
+        "temp": 305.15,
+        "weather": "Clear",
+        "description": "clear sky",
+        "icon": "01d",
+        "humidity": 65,
+        "wind": 3.6
+      }
+    ]
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "coord": { "lat": 10.7769, "lon": 106.7009 },
+    "forecast": [
+      {
+        "dt": "2025-05-12 09:00:00",
+        "temp": 307.15,
+        "weather": "Rain",
+        "description": "light rain",
+        "icon": "10d",
+        "humidity": 85,
+        "wind": 2.9
+      },
+      {
+        "dt": "2025-05-12 12:00:00",
+        "temp": 309.15,
+        "weather": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d",
+        "humidity": 80,
+        "wind": 3.2
+      }
+    ]
+  },
+  {
+    "city": "Da Nang",
+    "coord": { "lat": 16.0471, "lon": 108.2068 },
+    "forecast": [
+      {
+        "dt": "2025-05-12 09:00:00",
+        "temp": 300.15,
+        "weather": "Clear",
+        "description": "clear sky",
+        "icon": "01d",
+        "humidity": 60,
+        "wind": 2.1
+      },
+      {
+        "dt": "2025-05-12 12:00:00",
+        "temp": 302.15,
+        "weather": "Clouds",
+        "description": "few clouds",
+        "icon": "02d",
+        "humidity": 58,
+        "wind": 2.5
+      }
+    ]
+  },
+  {
+    "city": "Can Tho",
+    "coord": { "lat": 10.0452, "lon": 105.7469 },
+    "forecast": [
+      {
+        "dt": "2025-05-12 09:00:00",
+        "temp": 304.15,
+        "weather": "Rain",
+        "description": "moderate rain",
+        "icon": "10d",
+        "humidity": 90,
+        "wind": 3.0
+      },
+      {
+        "dt": "2025-05-12 12:00:00",
+        "temp": 306.15,
+        "weather": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d",
+        "humidity": 85,
+        "wind": 2.8
+      }
+    ]
+  },
+  {
+    "city": "Hai Phong",
+    "coord": { "lat": 20.8449, "lon": 106.6881 },
+    "forecast": [
+      {
+        "dt": "2025-05-12 09:00:00",
+        "temp": 302.15,
+        "weather": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d",
+        "humidity": 75,
+        "wind": 4.0
+      },
+      {
+        "dt": "2025-05-12 12:00:00",
+        "temp": 304.15,
+        "weather": "Clear",
+        "description": "clear sky",
+        "icon": "01d",
+        "humidity": 70,
+        "wind": 3.7
+      }
+    ]
+  }
+]
